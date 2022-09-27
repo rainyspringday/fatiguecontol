@@ -1,1 +1,1 @@
-Fatigue contol based on computer vision
+Fatigue control methods based on computer vision
